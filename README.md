@@ -2,6 +2,8 @@
 
 This example demonstrates how to load a listview in Xamarin.Forms TableView.
 
+![ListView in TableView](ListViewInTableView.png)
+
 ## Requirements to run the demo
 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/)
